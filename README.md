@@ -4,17 +4,24 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **DSA & Startup Planning**
-- 🌱 I’m currently learning **MERN Stack & System Design**
-- 👯 I’m looking to collaborate on **Open-source & Real-world Projects**
-- 🤔 I’m looking for help with **scaling SaaS apps & performance optimization**
-- 💬 Ask me about **Web Dev, DSA, Startups, and Productivity Tools**
-- 📫 How to reach me: **shivamsingh.dev@gmail.com**
+- 🌱 I’m currently learning **DSA**
+- 👯 I’m looking to collaborate on **Real-world Projects**
+- 🤔 I’m looking for help with **Algorithms efficiency**
+- 💬 Ask me about **DSA, Startups, and Productivity Tools**
+- 📫 How to reach me: **ishivam1202@gmail.com**
 - ⚡ Fun fact: *I can debug your code faster than your crush replies 😉*
 
 ---
 
 ### 🧠 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 📈 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=virtualshivamin&label=Profile%20views&color=0e75b6&style=flat" alt="virtualshivamin" />
+</p>
 
 ---
 
@@ -42,14 +49,11 @@
 ---
 
 ### 📌 Top Contributed Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualshivamin&repo=your-top-repo&theme=radical)](https://github.com/virtualshivamin/your-top-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualshivamin&repo=DSA-Codes&theme=radical)](https://github.com/virtualshivamin/DSA-Codes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualshivamin&repo=Cpp-codes&theme=radical)](https://github.com/virtualshivamin/Cpp-codes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualshivamin&repo=Java-Codes&theme=radical)](https://github.com/virtualshivamin/Java-Codes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualshivamin&repo=C-codes&theme=radical)](https://github.com/virtualshivamin/C-codes)
 
----
-
-### 📈 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=virtualshivamin&label=Profile%20views&color=0e75b6&style=flat" alt="virtualshivamin" />
-</p>
 
 ---
 
@@ -62,7 +66,10 @@
 
 ---
 
-> *“Code never lies, comments sometimes do.” – Ron Jeffries*
+> *“Code never lies, comments sometimes do.” – Ron Jeffries*  
+> *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*  
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*  
+> *“First, solve the problem. Then, write the code.” – John Johnson*
 
 ---
 
